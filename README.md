@@ -1,8 +1,6 @@
 # Proyecto C
 
 ## Descripciòn:
-
-
 Este es un proyecto de Conversor de dolares, quetzales y euros. Elaborado en C.
 
 
